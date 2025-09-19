@@ -18,7 +18,7 @@ using namespace std;
 
 void solve()
 {
-    // Your code here
+
 }
 
 int main()
