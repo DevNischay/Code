@@ -5,7 +5,7 @@
       "name": "Run Current C++ File",
       "type": "cppdbg",
       "request": "launch",
-      "program": "${fileDirname}/hello",
+      "program": "${fileDirname}",
       "args": [],
       "stopAtEntry": false,
       "cwd": "${fileDirname}",

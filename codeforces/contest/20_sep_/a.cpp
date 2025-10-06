@@ -23,9 +23,20 @@ using namespace std;
 
 void solve()
 {
+    ll r,c;
+    cin>>r>>c;
 
+    if (r<c) {
+        cout<<"2\n";
+    } else {
+       if (((r+1)>(2*c)) && (r-c>=2) && (c>=2)) {
+            cout<<"3\n";
+       } else {
+            cout<<"-1\n";
+       }
+    }
 }
-
+ 
 int main()
 {
     fast_io;

@@ -9,7 +9,8 @@
 		"vscode": {
 			"extensions": [
 				"ms-vscode.cpptools-extension-pack",
-				"langningchen.cph-ng"
+				"langningchen.cph-ng",
+				"DivyanshuAgrawal.competitive-programming-helper"
 			]
 		}
 	}
